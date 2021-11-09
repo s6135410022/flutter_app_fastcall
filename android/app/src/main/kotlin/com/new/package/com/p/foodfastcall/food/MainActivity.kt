@@ -1,4 +1,4 @@
-package com.example.flutter_app_fastcall
+package com.new.package.com.p.foodfastcall.food
 
 import io.flutter.embedding.android.FlutterActivity
 
